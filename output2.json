@@ -1,0 +1,48 @@
+{
+    "data": {
+      "accounts": {
+        "nodes": [
+          {
+            "account": "146YJHyD5cjFN77HrfKhxUFbU8WjApwk9ncGD6NbxE66vhMS",
+            "balance": "369110000000"
+          },
+          {
+            "account": "15zF7zvdUiy2eYCgN6KWbv2SJPdbSP6vdHs1YTZDGjRcSMHN",
+            "balance": "2014442002"
+          },
+          {
+            "account": "167f5SpFqXtEKEShxjKVWG2YbmrzLuLAL1DFNZcMGDxRgFhM",
+            "balance": "2002000000"
+          },
+          {
+            "account": "13wY4rD88C3Xzd4brFMPkAMEMC3dSuAR2NC6PZ5BEsZ5t6rJ",
+            "balance": "162804160"
+          },
+          {
+            "account": "146YJHyD5cjFN77HrfKhxUFbU8WjApwk9ncGD6NbxE66vhMS",
+            "balance": "130775360"
+          },
+          {
+            "account": "146YJHyD5cjFN77HrfKhxUFbU8WjApwk9ncGD6NbxE66vhMS",
+            "balance": "130644160"
+          },
+          {
+            "account": "146YJHyD5cjFN77HrfKhxUFbU8WjApwk9ncGD6NbxE66vhMS",
+            "balance": "117559360"
+          },
+          {
+            "account": "12H7nsDUrJUSCQQJrTKAFfyCWSactiSdjoVUixqcd9CZHTGt",
+            "balance": "117359360"
+          },
+          {
+            "account": "146YJHyD5cjFN77HrfKhxUFbU8WjApwk9ncGD6NbxE66vhMS",
+            "balance": "112866390"
+          },
+          {
+            "account": "167f5SpFqXtEKEShxjKVWG2YbmrzLuLAL1DFNZcMGDxRgFhM",
+            "balance": "112757275"
+          }
+        ]
+      }
+    }
+  }
